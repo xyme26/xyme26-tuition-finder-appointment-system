@@ -193,9 +193,7 @@ if ($first_visit) {
 </head>
 <body>
     <?php include 'header.php'; ?>
-
-    <br><br><br>
-
+    <br><br>
     <main class="main-content">
         <!-- Search Bar -->
         <div class="search-section">
