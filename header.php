@@ -53,14 +53,6 @@
             </div>
         </div>
     </nav>
-    
-    <!-- Notifications container -->
-    <div class="notifications-container">
-        <div id="notificationContainer">
-            <ul id="notificationsList"></ul>
-            <span id="notificationCount"></span>
-        </div>
-    </div>
 </header>
 
 <script>
