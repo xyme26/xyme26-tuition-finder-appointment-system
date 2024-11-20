@@ -129,8 +129,7 @@ include 'connection.php';
 </head>
 <body>
     <?php include 'header.php'; ?>
-    <br><br>
-    
+    <br>
     <!-- About Page Container -->
     <div class="container about-container">
         <div class="row">
@@ -139,7 +138,7 @@ include 'connection.php';
                 <h1 class="text-center mb-4">
                     <i class="fas fa-info-circle"></i> About Us
                 </h1>
-                
+                <br>
                 <!-- Our Mission Section -->
                 <section class="mb-5">
                     <h2>
