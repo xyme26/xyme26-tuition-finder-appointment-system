@@ -60,9 +60,7 @@ require_once 'connection.php';
 </head>
 <body>
     <?php include 'header.php'; ?>
-
-    <br><br><br><br><br>
-   
+    <br><br>
     <!-- Frequently Asked Questions (FAQs) -->
     <h1 class="mb-4">
     <i class="fas fa-circle-question"></i> 
